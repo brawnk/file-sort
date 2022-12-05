@@ -1,2 +1,2 @@
 # file sort
- basic file sorting script by file creation date into weekly folders
+ Basic file sorting script by creation date into weekly directories
